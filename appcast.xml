@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Orylio Updates</title>
-    <link>https://github.com/a-volz/Orylio-updates</link>
-    <description>Signierte gemeinsame Updates für Orylio Helper und Mac-Foto-App. Noch keine App-Version veröffentlicht.</description>
-    <language>de</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: XPnbEvG6Jp7PpR5VSmMYyVa70S+Kjjw09AgpQIePqb/DfHuWvVcklVnNLAx7e+qyQEGVBifTEoXuZzzUG5jKCQ==
-length: 667
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Orylio Companion – früherer Entwicklungsfeed</title><link>https://a-volz.github.io/Orylio-updates/companion/</link><description>Dieser frühere Entwicklungsfeed bleibt leer. Aktuelle Produkte verwenden getrennte signierte Feeds.</description><language>de</language></channel></rss><!-- sparkle-signatures:
+edSignature: YuL8A5ybs+fi8IBwnk2udTMF2wqWAcr2oQybyw1xyIMAWBf9FSKnwxmpF3R1rJjulOBur1P3WyTLFamcYbCFBQ==
+length: 678
 -->
