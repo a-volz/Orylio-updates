@@ -1,6 +1,24 @@
 {
-  "feed_url": "https://github.com/a-volz/Orylio-updates/releases/latest/download/appcast.xml",
+  "site_url": "https://a-volz.github.io/Orylio-updates/",
   "public_key": "QSpREOdJWyMpuzZhjRM3dIicrSKk9LlWva004T/oOts=",
   "sparkle_version": "2.10.0",
-  "installation_type": "package"
+  "installation_type": "application",
+  "products": {
+    "helper": {
+      "bundle_id": "com.andreasvolz.orylio.helper",
+      "app_name": "Orylio Mac.app",
+      "scheme": "Orylio Helper",
+      "minimum_system_version": "14.0",
+      "feed_url": "https://a-volz.github.io/Orylio-updates/helper/appcast.xml",
+      "download_page": "https://a-volz.github.io/Orylio-updates/helper/"
+    },
+    "viewer": {
+      "bundle_id": "com.andreasvolz.orylio.mac",
+      "app_name": "Orylio.app",
+      "scheme": "Orylio Mac",
+      "minimum_system_version": "26.0",
+      "feed_url": "https://a-volz.github.io/Orylio-updates/viewer/appcast.xml",
+      "download_page": "https://a-volz.github.io/Orylio-updates/viewer/"
+    }
+  }
 }
