@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Orylio Companion Updates</title><link>https://a-volz.github.io/Orylio-updates/companion/</link><description>Signierte eigenständige Updates. Noch keine App-Version veröffentlicht.</description><language>de</language></channel></rss><!-- sparkle-signatures:
-edSignature: x7QFiYTm0IgujgUWu/UDL49EI9+ZNBATDJz9UoW/MPkjbJUnNuKH/EVpdnjNiw88AfDm7B7QmgT6YlFwUSWkBg==
-length: 628
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><item><title>Orylio Companion 0.2.0</title><pubDate>Mon, 26 Oct 2026 11:15:30 +0000</pubDate><sparkle:version>20261026111315</sparkle:version><sparkle:shortVersionString>0.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description type="text/plain">Orylio Companion 0.2.0
+
+Deine Lightroom-Mediathek ohne SMB-Freigabe bereitstellen:
+- Erkennt Kataloge an üblichen und bekannten Speicherorten automatisch.
+- Wählt bei mehreren Versionen desselben Katalogs die höchste Versionsnummer.
+- Überspringt Apple-Fotos-Mediatheken und Dateipakete bei der Katalogsuche; kein Apple-Fotos-Zugriff erforderlich.
+- Einmal „Im lokalen Netzwerk bereitstellen“ im Companion aktivieren; erreichbare Geräte können diese Mediathek ohne Passwort anzeigen.
+- Liefert Alben, Metadaten und gespeicherte Vorschauen direkt an Orylio auf Mac und Apple TV.
+- Bisherige SMB-Verbindungen und ältere Viewer bleiben kompatibel.
+
+Für die automatische Mediathek wird auch Orylio Viewer 0.2.0 benötigt. Beide Mac-Apps werden unabhängig aktualisiert.
+</description><link>https://github.com/a-volz/Orylio-updates/releases/download/companion-v0.2.0/Orylio-Companion-v0.2.0.dmg</link><enclosure url="https://github.com/a-volz/Orylio-updates/releases/download/companion-v0.2.0/Orylio-Companion-v0.2.0.dmg" length="2908797" type="application/octet-stream" sparkle:edSignature="L7zukUwDxGSbXEtykugE/Ym3u7NUOhVjezishEP+GAihHLjwQJBhrPJX4a1aTBjbHDjCJNWpwGqzItVkM/XsCg==" sparkle:installationType="application"></enclosure></item><title>Orylio Companion Updates</title><link>https://a-volz.github.io/Orylio-updates/companion/</link><description>Signierte eigenständige Updates für Orylio Companion.</description><language>de</language></channel></rss><!-- sparkle-signatures:
+edSignature: WB81KQekLCvhDsIqCIqrazJ5S14Syg08r0MayeKq+cA5NIr+fvFt0tRX01vwm8tEzvGmwwb3ETyySRXsGTJiBA==
+length: 2157
 -->
